@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sneha/static/css/main.f96f07a4.css",
-    "main.js": "/sneha/static/js/main.3b11eb2c.js",
-    "static/js/592.663b8eab.chunk.js": "/sneha/static/js/592.663b8eab.chunk.js",
+    "main.css": "/sneha/static/css/main.6eea631a.css",
+    "main.js": "/sneha/static/js/main.86cd8416.js",
+    "static/js/453.0f8a3f1c.chunk.js": "/sneha/static/js/453.0f8a3f1c.chunk.js",
     "index.html": "/sneha/index.html",
-    "main.f96f07a4.css.map": "/sneha/static/css/main.f96f07a4.css.map",
-    "main.3b11eb2c.js.map": "/sneha/static/js/main.3b11eb2c.js.map",
-    "592.663b8eab.chunk.js.map": "/sneha/static/js/592.663b8eab.chunk.js.map"
+    "main.6eea631a.css.map": "/sneha/static/css/main.6eea631a.css.map",
+    "main.86cd8416.js.map": "/sneha/static/js/main.86cd8416.js.map",
+    "453.0f8a3f1c.chunk.js.map": "/sneha/static/js/453.0f8a3f1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f96f07a4.css",
-    "static/js/main.3b11eb2c.js"
+    "static/css/main.6eea631a.css",
+    "static/js/main.86cd8416.js"
   ]
 }
