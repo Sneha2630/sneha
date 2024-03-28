@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/sneha/static/css/main.2ec986bc.css",
-    "main.js": "/sneha/static/js/main.b1f6ad8d.js",
+    "main.css": "/sneha/static/css/main.ab828226.css",
+    "main.js": "/sneha/static/js/main.3492c8da.js",
     "static/js/453.0f8a3f1c.chunk.js": "/sneha/static/js/453.0f8a3f1c.chunk.js",
+    "static/media/productinfo.jpg": "/sneha/static/media/productinfo.89b485f58d4f92ed4140.jpg",
+    "static/media/charts.jpg": "/sneha/static/media/charts.5956405a1f3c52feae5d.jpg",
+    "static/media/statistics.jpg": "/sneha/static/media/statistics.a70cfc9118e214761eff.jpg",
     "index.html": "/sneha/index.html",
-    "main.2ec986bc.css.map": "/sneha/static/css/main.2ec986bc.css.map",
-    "main.b1f6ad8d.js.map": "/sneha/static/js/main.b1f6ad8d.js.map",
+    "main.ab828226.css.map": "/sneha/static/css/main.ab828226.css.map",
+    "main.3492c8da.js.map": "/sneha/static/js/main.3492c8da.js.map",
     "453.0f8a3f1c.chunk.js.map": "/sneha/static/js/453.0f8a3f1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec986bc.css",
-    "static/js/main.b1f6ad8d.js"
+    "static/css/main.ab828226.css",
+    "static/js/main.3492c8da.js"
   ]
 }
