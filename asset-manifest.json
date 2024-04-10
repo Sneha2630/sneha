@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sneha/static/css/main.e5b5bc32.css",
-    "main.js": "/sneha/static/js/main.17b65570.js",
+    "main.js": "/sneha/static/js/main.f4bd6b63.js",
     "static/js/453.0f8a3f1c.chunk.js": "/sneha/static/js/453.0f8a3f1c.chunk.js",
     "index.html": "/sneha/index.html",
     "main.e5b5bc32.css.map": "/sneha/static/css/main.e5b5bc32.css.map",
-    "main.17b65570.js.map": "/sneha/static/js/main.17b65570.js.map",
+    "main.f4bd6b63.js.map": "/sneha/static/js/main.f4bd6b63.js.map",
     "453.0f8a3f1c.chunk.js.map": "/sneha/static/js/453.0f8a3f1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5b5bc32.css",
-    "static/js/main.17b65570.js"
+    "static/js/main.f4bd6b63.js"
   ]
 }
